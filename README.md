@@ -1,7 +1,9 @@
 💱 Conversor de Moedas - Real para Dólar (v2.0)
 
-Acesse o app online:
-🌐 monquero.sytes.net/cotacaodolar
+## 🌐 Acesse o App Online
+
+➡️ [https://monquero.sytes.net/cotacaodolar](https://monquero.sytes.net/cotacaodolar)
+
 
 Este é um projeto desenvolvido em PHP que realiza a conversão de valores em reais para dólares com base na **cotação oficial do Banco Central do Brasil (BACEN)**, utilizando a API pública PTAX via cURL.
 
